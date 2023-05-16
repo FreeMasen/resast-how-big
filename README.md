@@ -1,4 +1,4 @@
-# How be is the RESAST?
+# How big is the RESAST?
 
 ```shell
 ----------
